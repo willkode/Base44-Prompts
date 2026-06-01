@@ -1,15 +1,3 @@
-export const AFFILIATE_SYSTEM = {
-  id: 15,
-  slug: 'affiliate-system',
-  title: 'Build a Complete Affiliate System (USA + Canada, 90-Day Cookie, Monthly Payouts)',
-  category: 'App Building',
-  featured: false,
-  published: '2026-04-29',
-  featured_image: 'https://media.base44.com/images/public/6929fb00a7a87c74088419c3/c769640a6_generated_image.png',
-  description: 'Add a full affiliate program to your existing Base44 app — signup, 90-day cookie tracking, attribution, conversion tracking, affiliate dashboard, admin dashboard, monthly payouts, fraud prevention, and admin approval workflow. USA + Canada eligibility built in.',
-  instructions: 'Use Claude Sonnet 4.6 or Opus for this task. Run the prompt in phases: let the AI scan your full app first (Phase 1), confirm reuse decisions, then proceed with the build. Do NOT run it in one pass on a large existing app — break it into modules (entities → signup → tracking → conversions → dashboards → payouts → fraud). Need expert help integrating with your existing payment flow? Book a Kode Sessions call or use the Hire Me service.',
-  prompt: `Scan my entire Base44 app before making changes.
-
 I want you to add a complete affiliate system to this existing app. Do not rebuild the app. Do not break existing user flows, auth, dashboards, checkout, subscriptions, payments, or admin areas. First understand the current app structure, routes, entities, user roles, backend functions, payment flow, and existing admin dashboard.
 
 After scanning, build a fully functioning affiliate system with:
