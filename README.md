@@ -1,73 +1,24 @@
 # Free AI Prompts by Will Kode
 
-A free collection of AI prompts, frameworks, and build guides for Base44, app development, audits, marketing systems, SEO, automation, and better AI-assisted software building.
+Styled Markdown prompt files converted from the original JavaScript prompt exports.
 
-These prompts are built to help developers, founders, agencies, and AI builders create cleaner apps, avoid broken workflows, improve security, and stop wasting time on unstructured prompting.
-
-[Support me on Buy Me a Coffee](https://buymeacoffee.com/willkode) - [Visit my Website KodeBase](https://kodebase.us)
+[☕ Support Will Kode on Buy Me a Coffee](https://buymeacoffee.com/willkode)
 
 ---
 
-## What's Inside
+## Prompt Files
 
-This repo includes prompts for:
-
-- Base44 app building
-- Security and RLS audits
-- QA and launch readiness
-- CRM systems
-- Support ticket systems
-- Billing systems
-- Blog systems
-- Marketing systems
-- SEO tools
-- AI agent workflows
-- Codebase cleanup
-- Performance optimization
-- Conversion intelligence
-- Customer onboarding
-- Internal operations
-
----
-
-## Why This Exists
-
-AI coding tools are powerful, but messy prompts create messy software.
-
-These prompts are designed to give AI builders a better structure so they can:
-
-- Build with clearer instructions
-- Avoid patchy app logic
-- Plan roles and permissions earlier
-- Reduce wasted credits
-- Improve app security
-- Create cleaner workflows
-- Launch with more confidence
-
-Use them, remix them, improve them, and build something useful.
-
----
-
-## Support This Work
-
-I share these prompts for free to help the community.
-
-If these prompts save you time, help you build faster, or make your app better, you can support my work here:
-
-[Support me on Buy Me a Coffee](https://buymeacoffee.com/willkode)
-
----
-
-## Author
-
-Created by [Will Kode](https://buymeacoffee.com/willkode)
-
-Developer, marketer, AI builder, and Base44 community contributor.
-
----
-
-## License
-
-Free to use, modify, and share.
-
-Credit is appreciated but not required.
+- [Build a Complete Affiliate System (USA + Canada, 90-Day Cookie, Monthly Payouts)](./affiliate-system.md)
+- [Build a Complete Billing & Account Operations System](./billing-account-operations-system.md)
+- [Add a Full Client & Customer Management System to Your Admin Area](./admin-client-customer-management.md)
+- [Complete Support Ticket System](./complete-support-ticket-system.md)
+- [Conversion Intelligence System](./conversion-intelligence-system.md)
+- [Base44 Full Performance Audit & Optimization](./base44-full-performance-audit-optimization.md)
+- [Build a Complete Internal CRM System](./internal-crm-system.md)
+- [Add a Full Internal Team Operations Layer (Tasks, Escalations, Checklists, Audit)](./internal-team-operations-layer.md)
+- [Add a Lightweight AI Blog System to Your Base44 App](./lightweight-ai-blog-system.md)
+- [Add a Complete Onboarding & Retention System](./complete-onboarding-and-retention-system.md)
+- [Pre-Launch QA Audit + Fix Plan](./pre-launch-qa-audit.md)
+- [Rewrite Your Website Copy to Sell the Outcome (Pain-Point Focused)](./sales-copy-rewriter-pain-point-focused.md)
+- [Add a Complete Built-In Support Workflow & Ticketing System](./built-in-support-workflow-system.md)
+- [Base44 Unused Items Audit — Find Dead Code, Stale Data & Hidden Cruft](./base44-unused-items-audit.md)
